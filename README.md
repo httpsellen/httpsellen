@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou a Ellen Alfredo! 
-- 📚 Sou Técnica em Geologia
+- 📚 Sou técnica em geologia
 - 🌱 Meu foco de estudo atual é Análise de Dados com Python, Power BI e IA
 - 📫 Possuo conhecimento intermediário em desenvolvimento Web
 - 😄 Pronouns: ela/dela
